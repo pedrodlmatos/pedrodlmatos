@@ -30,6 +30,8 @@
 
 <br />
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pedrodlmatos&count_private=true&theme=tokyonight&showicons=true)]()
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-master-pedrodlmatos.vercel.app/api?username=pedrodlmatos&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="" />
+</a>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodlmatos&count_private=true&langs_count=5&theme=tokyonight)]()
+
