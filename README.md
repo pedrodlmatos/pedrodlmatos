@@ -34,4 +34,11 @@
   <img align="center" src="https://github-readme-stats-git-master-pedrodlmatos.vercel.app/api?username=pedrodlmatos&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="" />
 </a>
 
+<br />
+
+[![Top Langs](https://github-readme-stats-git-master-pedrodlmatos.vercel.app/api/top-langs/?username=pedrodlmatos&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![willianrod's wakatime stats](https://github-readme-stats-git-master-pedrodlmatos.vercel.app/api/wakatime?username=pedrodlmatos)](https://github.com/anuraghazra/github-readme-stats)
 
