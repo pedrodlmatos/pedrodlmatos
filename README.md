@@ -30,9 +30,7 @@
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-master-pedrodlmatos.vercel.app/api?username=pedrodlmatos&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats-drab-three.vercel.app/api?username=pedrodlmatos&count_private=true&show_icons=true)
 
 <br />
 
