@@ -30,7 +30,7 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats-drab-three.vercel.app/api?username=pedrodlmatos&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-dzjms3rz1-pedrodlmatos.vercel.app/api?username=pedrodlmatos&count_private=true&show_icons=true)
 
 <br />
 
