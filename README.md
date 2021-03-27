@@ -18,7 +18,7 @@
  - 🇵🇹 &nbsp; From Figueira da Foz, Portugal
  - 🎓 &nbsp; Barchelor's Degree in Informatic Engineering @ [Universidade de Aveiro](www.ua.pt)
  - 🖥️ &nbsp; Learning about Artificial Intelligence and Machine Learning 
- - 🎸 &nbsp; Music passionate and a huge The Office 
+ - 🎸 &nbsp; Music passionate
 
 <h3>Languages and tools</h3>
 
