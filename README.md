@@ -1,4 +1,4 @@
-### Hello, I'm Pedro Matos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1>Hello, I'm Pedro Matos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <a href="https://www.linkedin.com/in/pedrodlmatos/">
   <img align="left" alt="" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
@@ -35,3 +35,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-drab-three.vercel.app/api/wakatime?username=pedrodlmatos&theme=slateorange&custom_title=Weekly stats" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
