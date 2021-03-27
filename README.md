@@ -31,10 +31,11 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-drab-three.vercel.app/api/wakatime?username=pedrodlmatos&theme=slateorange&custom_title=Weekly stats" />
 </a>
+-->
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
