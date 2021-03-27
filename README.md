@@ -20,9 +20,6 @@
  - 🖥️ &nbsp; Learning about Artificial Intelligence and Machine Learning 
  - 🎸 &nbsp; Music passionate and a huge The Office 
 
-
-<br />
-
 <h3>Languages and tools</h3>
 
 <code><img height="30" src="https://img.icons8.com/color/96/000000/python.png"/></code>
