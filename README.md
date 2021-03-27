@@ -8,11 +8,17 @@
 
 <br />
 
-<h3>About me</h3>
+<h3>Currently</h3>
 
- - :arrow_forward: &nbsp; Currently working with [React](https://reactjs.org/) and [Spring Boot](https://spring.io/projects/spring-boot)
- - :mortar_board: &nbsp; Software Enginner @ [Universidade de Aveiro](www.ua.pt)
- - :guitar: &nbsp; Music passionate
+ - ▶️ &nbsp; I'm working with [React](https://reactjs.org/) and [Spring Boot](https://spring.io/projects/spring-boot)
+ - 🎓 &nbsp; Master's Degree student in Informatic Engineering @ [Universidade de Aveiro](www.ua.pt)
+
+<h3>Bio</h3>
+
+ - 🇵🇹 &nbsp; From Figueira da Foz, Portugal
+ - 🎓 &nbsp; Barchelor's Degree in Informatic Engineering @ [Universidade de Aveiro](www.ua.pt)
+ - 🖥️ &nbsp; Learning about Artificial Intelligence and Machine Learning 
+ - 🎸 &nbsp; Music passionate and a huge The Office 
 
 
 <br />
@@ -28,15 +34,7 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 
-<br />
 
-![Anurag's GitHub stats](https://github-readme-stats-dzjms3rz1-pedrodlmatos.vercel.app/api?username=pedrodlmatos&count_private=true&show_icons=true)
-
-<br />
-
-[![Top Langs](https://github-readme-stats-git-master-pedrodlmatos.vercel.app/api/top-langs/?username=pedrodlmatos&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-[![willianrod's wakatime stats](https://github-readme-stats-git-master-pedrodlmatos.vercel.app/api/wakatime?username=pedrodlmatos)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-drab-three.vercel.app/api/wakatime?username=pedrodlmatos&theme=slateorange&custom_title=Weekly stats" />
+</a>
