@@ -38,14 +38,4 @@
 -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-```
-
-
- Last Updated on 28/06/2021
 <!--END_SECTION:waka-->
