@@ -31,7 +31,7 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodlmatos)](https://github.com/pedrodlmatos)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodlmatos&count_private=true&show_icons=true)](https://github.com/pedrodlmatos)
 
 
 <!--START_SECTION:waka-->
