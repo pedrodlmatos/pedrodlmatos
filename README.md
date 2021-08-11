@@ -1,26 +1,45 @@
 <h1>Hello, I'm Pedro Matos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
+<br />
+
 <a href="https://www.linkedin.com/in/pedrodlmatos/">
   <img align="left" alt="" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=pedrodlmatos.pedrodlmatos)
+<a href="https://open.spotify.com/user/1174876034">
+  <img align="left" alt="" width="50px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />
+</a>
 
 <br />
 
-<h3>Currently</h3>
+![](https://visitor-badge.glitch.me/badge?page_id=pedrodlmatos.pedrodlmatos)
+
+<br />
+<br />
+
+<h2>Currently</h2>
 
  - ▶️ &nbsp; I'm working with [React](https://reactjs.org/) and [Spring Boot](https://spring.io/projects/spring-boot)
- - 🎓 &nbsp; Master's Degree student in Informatic Engineering @ [Universidade de Aveiro](www.ua.pt)
+ - 🎓 &nbsp; Master's Degree student in Informatic Engineering @ [Universidade de Aveiro][ua]
 
-<h3>Bio</h3>
+<br />
+<a href="https://now-playing-henna.vercel.app/now-playing?open">
+    <img src="https://now-playing-henna.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+
+<br />
+<br />
+
+<h2>Bio</h2>
 
  - 🇵🇹 &nbsp; From Figueira da Foz, Portugal
- - 🎓 &nbsp; Barchelor's Degree in Informatic Engineering @ [Universidade de Aveiro](www.ua.pt)
+ - 🎓 &nbsp; Barchelor's Degree in Informatic Engineering @ [Universidade de Aveiro][ua]
  - 🖥️ &nbsp; Learning about Artificial Intelligence and Machine Learning 
  - 🎸 &nbsp; Music passionate
 
-<h3>Languages and tools</h3>
+<br />
+
+<h2>Languages and tools</h2>
 
 <code><img height="30" src="https://img.icons8.com/color/96/000000/python.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
@@ -32,6 +51,8 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodlmatos&count_private=true&show_icons=true)](https://github.com/pedrodlmatos)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodlmatos&layout=compact&count_private=true&show_icons=true)](https://github.com/pedrodlmatos)
 
 
 <!--START_SECTION:waka-->
@@ -61,3 +82,5 @@ Bash                     5 mins              █░░░░░░░░░░�
 
  Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
+
+[ua]: www.ua.pt
