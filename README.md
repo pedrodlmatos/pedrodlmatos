@@ -31,31 +31,8 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodlmatos)](https://github.com/pedrodlmatos)
+
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-🌆 Daytime    15 commits     ██████░░░░░░░░░░░░░░░░░░░   25.86% 
-🌃 Evening    31 commits     █████████████░░░░░░░░░░░░   53.45% 
-🌙 Night      6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     1 hr 10 mins        ██████████████░░░░░░░░░░░   57.57% 
-Java                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
-Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Properties               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
-
-```
-
-
- Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
