@@ -50,9 +50,7 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodlmatos&count_private=true&show_icons=true)](https://github.com/pedrodlmatos)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodlmatos&layout=compact&count_private=true&show_icons=true)](https://github.com/pedrodlmatos)
+![](generated/overview.svg) ![](generated/languages.svg)
 
 
 <!--START_SECTION:waka-->
@@ -83,4 +81,10 @@ JavaScript               11 mins             █░░░░░░░░░░�
  Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
+Based on:
+ - [Gitub Stats][github]
+ - [Wakatime Readme Stats][wakatime]
+
 [ua]: www.ua.pt
+[github]: https://github.com/jstrieb/github-stats
+[wakatime]: https://github.com/anmol098/waka-readme-stats 
