@@ -54,7 +54,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2021%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,13 +71,12 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      6 mins              ███████████████░░░░░░░░░░   62.54% 
-Java                     3 mins              █████████░░░░░░░░░░░░░░░░   37.46%
+TeX                      1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/12/2021
+ Last Updated on 21/12/2021
 <!--END_SECTION:waka-->
 
 Based on:
