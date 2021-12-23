@@ -54,7 +54,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2010%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -78,7 +78,7 @@ SQL                      0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/12/2021
+ Last Updated on 23/12/2021
 <!--END_SECTION:waka-->
 
 Based on:
